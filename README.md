@@ -1,0 +1,3 @@
+# Udacity Deep Learning Nanodegree
+
+This repository contains my solution for Udacity Deep Learning Nanodegree. Furthermore, the syllabus for the nanodegree is available in the repository, which contains info on all the projects and the program. For more information, please visit the nanodegree' [repository](https://github.com/udacity/deep-learning-v2-pytorch) and its [site](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
